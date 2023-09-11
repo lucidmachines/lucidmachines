@@ -1,8 +1,8 @@
-- 👋 We're [lucid](https://lucidmachines.github.io)
-- 👀 Cool automation, redefined
-- 🌱 Expandable and immersive
-- 💞️ Affordable for anyone
-- 📫 Installed directly into your home
+- 👋 we're [lucid](https://lucidmachines.github.io)
+- 👀 cool automation, redefined
+- 🌱 expandable and immersive
+- 💞️ affordable for anyone
+- 📫 installed directly into your home
 
 <!---
 lucidmachines/lucidmachines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
