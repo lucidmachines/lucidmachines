@@ -1,4 +1,4 @@
-- 👋 We are @lucidmachines
+- 👋 We're [lucid](https://lucidmachines.github.io)
 - 👀 Cool automation, redefined
 - 🌱 Expandable and immersive
 - 💞️ Affordable for anyone
